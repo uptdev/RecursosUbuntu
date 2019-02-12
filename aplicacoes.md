@@ -22,7 +22,7 @@
 
 ### Video
 - [OpenShot](https://www.openshot.org/) - Software simples e livre de criação de video que já ganhou vários prémios
-- [Handrake](https://handbrake.fr/) - Transcodificador de video
+- [Handbrake](https://handbrake.fr/) - Transcodificador de video
  
 
 
