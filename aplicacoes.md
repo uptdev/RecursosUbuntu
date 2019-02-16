@@ -4,6 +4,7 @@
 - [Chat](#chat)
 - [Desenho](#desenho)
 - [Editores de texto](#editores)
+- [Gestores de passwords](#passwords)
 - [Video](#video)
 
 
@@ -28,6 +29,9 @@
 - [Emacs](https://www.gnu.org/software/emacs/) - Um editor extensivel e personalizavel
 - [Vim](https://www.vim.org/) - Na sua versão mais simples este editor vem instalado em todos os sistemas Linux, basta escrever vi num terminal.
 - [Atom](https://atom.io/) - Produzido pelo GitHub, este editor tem excelente suporte para interagir com Git. Além disso é extensivel através de packages que suportam quase tudo o que é linguagem de programação.
+
+### Passwords
+- [KeepassXC](https://keepassxc.org/) - Gestor de passwords para pessoas com altos requisitos de segurança.
 
 ### Video
 - [OpenShot](https://www.openshot.org/) - Software simples e livre de criação de video que já ganhou vários prémios.
