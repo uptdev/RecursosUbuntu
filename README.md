@@ -1,6 +1,6 @@
 # Recursos Ubuntu
 
-Este repositório contém guias para ajudar as pessoas a executar determinadas tarefas no Ubuntu Linux. Qualquer pessoa pode contribuir. A comunidade Ubuntu-pt reune-se diariamente no [Telegram](https://t.me/ubuntuptgeral).
+Este repositório contém guias para ajudar as pessoas a executar determinadas tarefas no Ubuntu Linux. Qualquer pessoa pode contribuir. A comunidade Ubuntu-pt reúne-se diariamente no [Telegram](https://t.me/ubuntuptgeral).
 
 ### Como contribuir
 1. Fazer fork ao repositório
