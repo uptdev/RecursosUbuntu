@@ -3,7 +3,7 @@
 - [Áudio](#áudio)
 - [Chat](#chat)
 - [Desenho](#desenho)
-- [Editores de texto](#editores\ de\ texto)
+- [Editores de texto](#editores-de-texto)
 - [Gestores de passwords](#passwords)
 - [Video](#video)
 
