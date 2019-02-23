@@ -16,3 +16,4 @@ Este repositório contém guias para ajudar as pessoas a executar determinadas t
 
 ### Lista de recursos da comunidade Ubuntu PT
 - [Aplicações](https://github.com/uptdev/RecursosUbuntu/blob/master/aplicacoes.md) uteis para a tarefa X
+- [Scripts](https://github.com/uptdev/RecursosUbuntu/blob/master/scripts.md)
