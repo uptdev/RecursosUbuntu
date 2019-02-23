@@ -29,6 +29,7 @@ Nome do Software | Tipo de Software | Licença | Snap
 - [Hexchat](https://hexchat.github.io/) - Software para participar nas salas de chat do IRC (Internet Relay Chat)
 - [Slack for Linux](https://slack.com/downloads/linux) - Cliente para Slack, uma rede muito usada para projectos profissionais e comunidades.
 - [Jami](https://jami.net) - Plataforma de comunicação livre e universal. Permite gravar as chamadas de voz e video.
+- [Signal](https://signal.org) - Software de troca de mensagens para o telefone e o desktop. Permite fazer chamadas de voz e vídeo.
 
 ### Desenho
 - [MyPaint](http://mypaint.org/) - Software para criar desenhos à mão livre.
