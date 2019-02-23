@@ -3,7 +3,7 @@
 - [Áudio](#áudio)
 - [Chat](#chat)
 - [Desenho](#desenho)
-- [Editores de texto](#editores_de_texto)
+- [Editores de texto](#editores\ de\ texto)
 - [Gestores de passwords](#passwords)
 - [Video](#video)
 
@@ -39,7 +39,7 @@ Nome do Software | Tipo de Software | Licença | Snap
 - [Gimp](https://www.gimp.org/) - Editor de manipulação de imagens poderoso, com plugins.
 - [Blender](https://www.blender.org/) - Ferramenta de criação e animação de objectos 3D.
 
-### Editores_de_Texto
+### Editores de Texto
 - [Emacs](https://www.gnu.org/software/emacs/) - Um editor extensivel e personalizavel
 - [Vim](https://www.vim.org/) - Na sua versão mais simples este editor vem instalado em todos os sistemas Linux, basta escrever vi num terminal.
 - [Atom](https://atom.io/) - Produzido pelo GitHub, este editor tem excelente suporte para interagir com Git. Além disso é extensivel através de packages que suportam quase tudo o que é linguagem de programação.
