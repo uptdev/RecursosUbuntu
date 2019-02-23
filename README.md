@@ -1,6 +1,6 @@
-# RecursosUbuntu
+# Recursos Ubuntu
 
-Este repositório contém guias para ajudar as pessoas a executar determinadas tarefas no Ubuntu Linux. Qualquer pessoa pode contribuir. A comunidade Ubuntu-pt reune-se diáriamente no [Telegram](https://t.me/ubuntuptgeral).
+Este repositório contém guias para ajudar as pessoas a executar determinadas tarefas no Ubuntu Linux. Qualquer pessoa pode contribuir. A comunidade Ubuntu-pt reúne-se diariamente no [Telegram](https://t.me/ubuntuptgeral).
 
 ### Como contribuir
 1. Fazer fork ao repositório
@@ -15,5 +15,9 @@ Este repositório contém guias para ajudar as pessoas a executar determinadas t
 7. Criar um pull request no GitHub ao repositório original
 
 ### Lista de recursos da comunidade Ubuntu PT
+<<<<<<< HEAD
 - [Aplicações](https://github.com/uptdev/RecursosUbuntu/blob/master/aplicacoes.md) uteis para a tarefa X
 - [Scripts](https://github.com/uptdev/RecursosUbuntu/blob/master/scripts.md)
+=======
+- [Aplicações](https://github.com/uptdev/RecursosUbuntu/blob/master/aplicacoes.md) úteis para a tarefa X
+>>>>>>> 07bb5c097d8d578ae678bfb5c71b9df6c030ba64
