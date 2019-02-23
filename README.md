@@ -15,9 +15,6 @@ Este repositório contém guias para ajudar as pessoas a executar determinadas t
 7. Criar um pull request no GitHub ao repositório original
 
 ### Lista de recursos da comunidade Ubuntu PT
-<<<<<<< HEAD
-- [Aplicações](https://github.com/uptdev/RecursosUbuntu/blob/master/aplicacoes.md) uteis para a tarefa X
-- [Scripts](https://github.com/uptdev/RecursosUbuntu/blob/master/scripts.md)
-=======
 - [Aplicações](https://github.com/uptdev/RecursosUbuntu/blob/master/aplicacoes.md) úteis para a tarefa X
->>>>>>> 07bb5c097d8d578ae678bfb5c71b9df6c030ba64
+- [Scripts](https://github.com/uptdev/RecursosUbuntu/blob/master/scripts.md)
+
