@@ -12,7 +12,7 @@
 Nome do Software | Tipo de Software | Licença | Snap
 ------------ | ------------- | ---------- | -------
 [Ardour](https://ardour.org/) | DAW / produção musical | [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.pt-br.html) | :x:
-[Audacity](https://www.audacityteam.org/) | edição e gravação | [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.pt-br.html) | :heavy_check_mark:
+[Audacity](https://www.audacityteam.org/) | edição e gravação | [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.pt-br.html) | [:heavy_check_mark:](https://snapcraft.io/audacity)
 [LMMS](https://lmms.io/) | DAW / produção musical | [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.pt-br.html) | :x:
 [Amarok](https://amarok.kde.org/) | reprodutor de música | [GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.pt-br.html) | :x:
 [Clementine](https://www.clementine-player.org/) | reprodutor de música | [GPL v3](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) | :heavy_check_mark:
