@@ -43,6 +43,7 @@ Nome do Software | Tipo de Software | Licença | Snap
 - [Emacs](https://www.gnu.org/software/emacs/) - Um editor extensivel e personalizavel [Snap](https://snapcraft.io/emacs)
 - [Vim](https://www.vim.org/) - Na sua versão mais simples este editor vem instalado em todos os sistemas Linux, basta escrever vi num terminal. 
 - [Atom](https://atom.io/) - Produzido pelo GitHub, este editor tem excelente suporte para interagir com Git. Além disso é extensivel através de packages que suportam quase tudo o que é linguagem de programação. [Snap](https://snapcraft.io/atom)
+- [Micro](https://micro-editor.github.io/) - Um editor de texto moderno e intuitivo. Usa as combinações de teclas mais comuns hoje em dia. Uma excelente alternativa ao vim e emacs com uma curva de aprendizagem rápida. [Snap](https://snapcraft.io/micro) 
 
 ### Passwords
 - [KeepassXC](https://keepassxc.org/) - Gestor de passwords para pessoas com altos requisitos de segurança. [Snap](https://snapcraft.io/keepassxc)
